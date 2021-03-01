@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: gainsboro;
+}
+
+.Home {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.Home > * {
+  width: 40vw;
+  height: 70vh;
+  margin: 20px;
+}
+
+.editor-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin-right: 50px;
+}
+
+.editor-wrapper textarea {
+  resize: vertical;
+  background: goldenrod;
+}
