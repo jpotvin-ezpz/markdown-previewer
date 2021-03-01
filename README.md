@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://diligent-body.surge.sh/">
       Demo
     </a>
     <span> | </span>
@@ -29,14 +29,14 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/jpotvin-ezpz/markdown-previewer/blob/main/Screenshot_2021-03-01%20React%20App(1).png)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-
+- [Markedjs](https://markedjs.org)
 
 
 ## Acknowledgements
@@ -46,6 +46,7 @@
 - [Net Ninja | Full React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8)
 - [Reactjs.org](https://reactjs.org/)
 - [FreeCodeCamp | Front-end Libraries Course](https://www.freecodecamp.org/learn/front-end-libraries/#react)
+- [Marked](https://Markedjs.org)
 
 
 ## Contact
