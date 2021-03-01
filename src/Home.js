@@ -59,7 +59,6 @@ And here. | Okay. | I think we get it.
   }
 
 
-
  render() {
   return (  
     <div className='Home'>
@@ -74,7 +73,7 @@ And here. | Okay. | I think we get it.
       </div>
       <div className="preview-wrapper">
         <label>Preview</label>
-        <div id='preview' dangerouslySetInnerHTML={{__html: marked(this.state.markdown) }}></div>
+        <div id='preview' dangerouslySetInnerHTML={{__html: marked.setOptions({breaks:true})(this.state.markdown) }}></div>
       </div>
     </div>
   );
