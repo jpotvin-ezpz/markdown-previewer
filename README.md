@@ -36,7 +36,7 @@
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Markedjs](https://markedjs.org)
+- [Markedjs](https://marked.js.org/)
 
 
 ## Acknowledgements
@@ -46,7 +46,7 @@
 - [Net Ninja | Full React Tutorial](https://www.youtube.com/watch?v=j942wKiXFu8)
 - [Reactjs.org](https://reactjs.org/)
 - [FreeCodeCamp | Front-end Libraries Course](https://www.freecodecamp.org/learn/front-end-libraries/#react)
-- [Marked](https://Markedjs.org)
+- [Marked](https://marked.js.org/)
 
 
 ## Contact
